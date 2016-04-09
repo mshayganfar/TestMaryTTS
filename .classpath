@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/icu4j-54.1.1.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-client-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-de-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-en-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-fr-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-it-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-ru-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-sv-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-te-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-lang-tr-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-runtime-5.1.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/voice-cmu-slt-hsmm-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-common-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-runtime-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/marytts-signalproc-5.1.2.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/voice-cmu-bdl-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="/home2/TTS/marytts-5.1.2/lib/voice-cmu-rms-hsmm-5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
